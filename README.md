@@ -1,5 +1,3 @@
-Sure! Here's a README for your project:
-
 ---
 
 # File Transfer Application
